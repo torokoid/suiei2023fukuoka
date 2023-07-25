@@ -117,7 +117,7 @@ width: 800px;
 
 
 <!--QRコードの挿入例-->
-<p align="left"> <img src="20230725.png" alt="アクセス用QRコード" width="100">アクセス用QRコード&emsp;&emsp;&emsp;&emsp;<a href="https://torokoid.github.io/dream_2023Aug05/">飲み会写真集リンク</a></p>
+<p align="left"> <img src="20230725.png" alt="アクセス用QRコード" width="100">アクセス用QRコード&emsp;&emsp;&emsp;&emsp;<h2 href="https://torokoid.github.io/dream_2023Aug05/">飲み会写真集リンク</h2></p>
 <p align="right"><marquee direction="left" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 
 <!--流れ文字の挿入例-->
