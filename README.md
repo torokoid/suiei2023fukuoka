@@ -123,6 +123,16 @@ width: 800px;
 <!--流れ文字の挿入例-->
 <h1><span class="yellow"><marquee behavior="alternate">!!! 2023/07 世界水泳、福岡、YouTube動画抜粋 !!!</marquee></span></h1>	
 
+<p>世界新記録WR、４連発</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/G42IGvCbeqA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pU3ZqsKkAP4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sHiS4ZQUOic" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8SqlbPb-NKM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 <p>以下、YouTube動画集</p>
 
