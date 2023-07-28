@@ -136,17 +136,20 @@ width: 800px;
 
 <br><br>
 
-<h2>
+<h1>
 <a href= "https://www.youtube.com/embed/8SqlbPb-NKM" target="_blank" >女子400フリー</a><br>
 
 <a href= "https://www.youtube.com/embed/pU3ZqsKkAP4" target="_blank" >男子400個人メドレー</a><br>
 
 <a href= "https://youtu.be/sHiS4ZQUOic" target="_blank" >女子200フリー</a><br>
 
-<a href= "https://youtu.be/sHiS4ZQUOic" target="_blank" >女子2x200フリーリレー</a>
-</h2>
+<a href= "https://youtu.be/sHiS4ZQUOic" target="_blank" >女子2x200フリーリレー</a><br><br>
 
+<a href= "https://youtu.be/MBdUyYM_Zeg" target="_blank" >女子50バタフライ準決勝、池江璃花子復活！</a>
 
+</h1>
+
+<!--
 <iframe width="560" height="315" src="https://www.youtube.com/embed/G42IGvCbeqA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pU3ZqsKkAP4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -154,7 +157,7 @@ width: 800px;
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sHiS4ZQUOic" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8SqlbPb-NKM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+-->
 
 <p>以下、YouTube動画集</p>
 
