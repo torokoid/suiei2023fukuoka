@@ -123,7 +123,17 @@ width: 800px;
 <!--流れ文字の挿入例-->
 <h1><span class="yellow"><marquee behavior="alternate">!!! 2023/07 世界水泳、福岡、YouTube動画抜粋 !!!</marquee></span></h1>	
 
-<p>世界新記録WR、４連発</p>
+<p>世界新記録WR、４連発、8月7日月曜日まで無料で見られます</p>
+
+<a href= "https://abema.tv/video/episode/38-416_s110_p201" target="_blank" >女子400フリー</a>
+
+<a href= "https://abema.tv/video/episode/38-416_s110_p202" target="_blank" >男子400個人メドレー</a>
+
+<a href= "https://abema.tv/video/episode/38-416_s110_p227" target="_blank" >女子200フリー</a>
+
+<a href= "https://abema.tv/video/episode/38-416_s110_p253" target="_blank" >女子2x200フリーリレー</a>
+
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/G42IGvCbeqA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
