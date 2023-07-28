@@ -145,7 +145,7 @@ width: 800px;
 
 <a href= "https://youtu.be/sHiS4ZQUOic" target="_blank" >女子2x200フリーリレー</a><br><br>
 
-<a href= "https://youtu.be/MBdUyYM_Zeg" target="_blank" >女子50バタフライ準決勝、池江璃花子復活！</a>
+<a href= "https://youtu.be/MBdUyYM_Zeg" target="_blank" >女子50バタフライ準決勝<br>池江璃花子復活！</a>
 
 </h1>
 
