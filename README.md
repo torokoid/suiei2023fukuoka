@@ -135,7 +135,7 @@ width: 800px;
 </h2>
 
 <br><br>
-
+<!--
 <h1>
 <a href= "https://www.youtube.com/embed/8SqlbPb-NKM" target="_blank" >女子400フリー</a><br>
 
@@ -148,6 +148,7 @@ width: 800px;
 <a href= "https://youtu.be/MBdUyYM_Zeg" target="_blank" >女子50バタフライ準決勝<br>池江璃花子復活！</a>
 
 </h1>
+-->
 
 <!--
 <iframe width="560" height="315" src="https://www.youtube.com/embed/G42IGvCbeqA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
