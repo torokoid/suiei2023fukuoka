@@ -123,7 +123,7 @@ width: 800px;
 <!--流れ文字の挿入例-->
 <h1><span class="yellow"><marquee behavior="alternate">!!! 2023/07 世界水泳、福岡、YouTube動画抜粋 !!!</marquee></span></h1>	
 
-<p>世界新記録WR、5連発、8月7日月曜日まで無料で見られます</p>
+<p>世界新記録WR、6連発、8月7日月曜日まで無料で見られます</p>
 <h2>
 
 <a href= "https://abema.tv/video/episode/38-416_s110_p276" target="_blank" >混合4x100フリーリレー決勝</a><br>
