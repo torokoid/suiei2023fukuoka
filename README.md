@@ -125,6 +125,9 @@ width: 800px;
 
 <p>世界新記録WR、5連発、8月7日月曜日まで無料で見られます</p>
 <h2>
+
+<a href= "https://abema.tv/video/episode/38-416_s110_p276" target="_blank" >混合4x100フリーリレー決勝</a><br>
+ 
 <a href= "https://abema.tv/video/episode/38-416_s110_p270" target="_blank" >女子50フリー準決勝</a><br>
  
 <a href= "https://abema.tv/video/episode/38-416_s110_p201" target="_blank" >女子400フリー</a><br>
