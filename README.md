@@ -139,6 +139,10 @@ width: 800px;
 <a href= "https://abema.tv/video/episode/38-416_s110_p253" target="_blank" >女子2x200フリーリレー</a>
 </h2>
 
+<h2>
+<a href= "https://abema.tv/video/episode/38-416_s110_p276" target="_blank" >元ネタはこちらです</a>
+</h2>
+
 <br><br>
 <!--
 <h1>
