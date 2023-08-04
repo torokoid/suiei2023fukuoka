@@ -140,7 +140,7 @@ width: 800px;
 </h2>
 
 <h2>
-<a href= "https://abema.tv/video/episode/38-416_s110_p276" target="_blank" >元ネタはこちらです</a>
+<a href= "https://abema.tv/video/episode/38-416_s110_p276" target="_blank" >元ネタはこちら</a>
 </h2>
 
 <br><br>
